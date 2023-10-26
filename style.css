@@ -1,10 +1,13 @@
 /*Anotações importantes*/
 /*CLASSE - substituir o p pelo .texto*/
-/* ID - substituir o h1 por #título/ 
+/* ID - substituir o h1 por #título*/ 
+
+#tituloprincipal{
+    text-align: center;
+}
 
 
-
-p{
-    color: red ;
-    text-align:center; 
+.roxo{
+    color: rgb(94, 11, 119) ;
+    text-align:justify; 
 }
